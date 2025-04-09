@@ -1,7 +1,7 @@
 {
   "name": "conison-technologies",
   "version": "1.0.0",
-  "homepage": "https://Dmuasya.github.io/Conison",
+  "homepage": "https://dmuasya.github.io/Conison",
   "private": true,
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.2",
